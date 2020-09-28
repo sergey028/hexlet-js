@@ -1,5 +1,5 @@
 {
-  "name": "hexlet",
+  "name": "hexlet-js",
   "version": "1.0.0",
   "type": "module",
   "description": "Мой первый проект на Хекслете.",
@@ -20,6 +20,8 @@
   "dependencies": {
     "lodash": "^4.17.20"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
   "keywords": []
 }
